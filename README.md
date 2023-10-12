@@ -18,6 +18,18 @@ While the entire Premier League season is considered, particular emphasis is als
 
 **NOTE** You can explore other clubs in the Team Level Dashboard to compare their statistics against each other.
 
+## Repository Structure
+This repository is organized as follows:
+*	Dashboard File: PowerBI file used for data exploration, analysis, and visualization.
+*	Data: Contains the dataset used in this analysis.
+* KPIs: Table of PIs used in this analysis
+* Photos: Background images, logos used in building the dashboard
+*	Visualizations: Dashboards and graphs generated
+  *	Dashboard Snapshots: Dashboards focused on Leicester City (Team Level and Player Level)
+  *	Player Level Graphs: Player Level PIs vs Market Value Graphs
+  *	Team Level Graphs: Team Level PIs vs Market Value Graphs 
+*	References: List of Studies and Articles used as references
+
 ## Performance Indicators (PIs)
 In the context of sports analytics, a performance indicator is a variable or a combination of variables used to measure and describe performance in a given sport. These indicators are essential for assessing and understanding successful outcomes within the sport.
 
@@ -32,19 +44,6 @@ In the context of sports analytics, a performance indicator is a variable or a c
 
 ## Factors Influencing Market Values
 Apart from performance indicators, several external factors contribute to a football player's market value. Factors such as age, contract duration, position, skills, brand value, and the league in which they play all have a significant impact on a player's total market value (Williams, 2021).
-
-## Repository Structure
-This repository is organized as follows:
-*	Dashboard File: PowerBI file used for data exploration, analysis, and visualization.
-*	Data: Contains the dataset used in this analysis.
-* KPIs: Table of PIs used in this analysis
-* Photos: Background images, logos used in building the dashboard
-*	Visualizations: Dashboards and graphs generated
-  *	Dashboard Snapshots: Dashboards focused on Leicester City (Team Level and Player Level)
-  *	Player Level Graphs: Player Level PIs vs Market Value Graphs
-  *	Team Level Graphs: Team Level PIs vs Market Value Graphs 
-*	References: List of Studies and Articles used as references
-
 
 ## Key Performance Indicators (KPIs)
 ### Team Level
