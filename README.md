@@ -40,7 +40,9 @@ In the context of sports analytics, a performance indicator is a variable or a c
   3.	Technical - Defensive
   4.	Technical - Attacking
   5.	Psychological
-  This study primarily focuses on the Technical Defensive and Technical Attacking categories, as they are most relevant to the analysis of market values.
+
+     
+This study primarily focuses on the Technical Defensive and Technical Attacking categories, as they are most relevant to the analysis of market values.
 
 ## Factors Influencing Market Values
 Apart from performance indicators, several external factors contribute to a football player's market value. Factors such as age, contract duration, position, skills, brand value, and the league in which they play all have a significant impact on a player's total market value (Williams, 2021).
