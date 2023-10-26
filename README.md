@@ -1,6 +1,4 @@
-<p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Photos/Premier%20League%20Logo.png" width="500">
-</p>
+![Cover](https://github.com/mrylprz/englishpremierleague20202021/blob/main/Photos/Cover.png)
 
 # Football Analytics: Market Value Analysis of English Premier League 2020/2021
 <br>
