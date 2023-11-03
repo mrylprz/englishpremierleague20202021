@@ -1,4 +1,4 @@
-![Cover](https://github.com/mrylprz/englishpremierleague20202021/blob/main/Photos/Cover.png)
+![Cover](./Photos/Cover.png)
 
 # Football Analytics: Market Value Analysis of English Premier League 2020/2021
 <br>
@@ -51,26 +51,26 @@ Table 1 summarises the KPIs and variables used to evaluate the team’s performa
   
 Table 1. Team Level KPIs/Variables  
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/KPIs/Team%20Level%20KPIs.png" width="600">
+   <img src="./KPIs/Team Level KPIs.png" width="600">
 </p>
   
 Apart from these technical indicators, Club Average Age, a physiological indicator, also has a relationship with the club’s market value (refer to Figure A-7) where the market values are higher when the average of all the players’ ages are from 24-26.  
   
 Figure A-7. Club Average Age vs Club Market Value  
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Team%20Level%20Graphs/Figure%20A-7.%20Club%20Avg%20Age%20vs%20Club%20Market%20Value.png" width="400">
+   <img src="./Visualizations/Team Level Graphs/Figure A-7. Club Avg Age vs Club Market Value.png" width="400">
 </p>  
    
 The dashboard in below shows the performance of the club, Leicester City, based on the KPIs in Table 1. According to Transfermarkt (2021), the team’s current league position is 3rd but their market value ranks at 8th place. 
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Dashboard%20Snapshots/Team%20Level%20Dashboard%20-%20Leicester%20City.png" width="700">
+   <img src="./Visualizations/Dashboard Snapshots/Team Level Dashboard - Leicester City.png" width="700">
 </p>   
 
 Based on the twenty-two (22) matches they participated in, Leicester City has 13 wins (59%), 6 losses, and 3 draws. Their average goals per match is lower than the League Level Average. The data shows that Leicester City are at a disadvantage when playing in their home field at 19%. Nevertheless, 53% of the time, the ball is in their possession across their matches.  Comparing their offensive and defensive skills, goal accuracy is slightly lower than goals conceded, while %FTS (matches they failed to score) is lower than %CS (matches that they managed to prevent their opponent from scoring). Therefore, their offensive play is stronger than their defence. Their home disadvantage is also seen in their FTS count and count of goals conceded where the home statistics are higher. 
 
 **Other Team PIs vs Market Value:**
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Dashboard%20Snapshots/Team%20Level%20Graphs%20-%20KPIs%20vs%20Market%20Value.jpg" width="550">
+   <img src="./Visualizations/Dashboard Snapshots/Team Level Graphs - KPIs vs Market Value.jpg" width="550">
 </p>  
 
 ### Player Level
@@ -78,7 +78,7 @@ Table 2 summarises the KPIs and variables used to evaluate the players’ perfor
   
 Table 2. Player Level KPIs/Variables  
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/KPIs/Player%20Level%20KPIs.png" width="600">
+   <img src="./KPIs/Player Level KPIs.png" width="600">
 </p>    
 
 The player’s position also contributes to the market value of the player (refer Figure B-4).  The Club Score Contribution’s (%CSC) effect on the market value varies per position. Forwards and Midfielders are more affected by this KPI than Defenders and Goalkeepers. Whereas the effect of change in Clean Sheets/Matches Played(%CS/MP), a measure for defensive skills, is the same regardless of position.
@@ -86,7 +86,7 @@ The player’s position also contributes to the market value of the player (refe
 Figure B-4. Position vs Market Value
   
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Player%20Level%20Graphs/Figure%20B-4.%20Position%20vs%20Market%20Value.png" width="400">
+   <img src="./Visualizations/Player Level Graphs/Figure B-4. Position vs Market Value.png" width="400">
 </p>  
 
 
@@ -95,12 +95,12 @@ Like the team level, the player’s age also affects the player’s individual m
 Figure B-5. Age vs Market Value 
   
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Player%20Level%20Graphs/Figure%20B-5.%20Age%20vs%20Market%20Value.png" width="400">
+   <img src="./Visualizations/Player Level Graphs/Figure B-5. Age vs Market Value.png" width="400">
 </p>  
 
 **Other Player PIs vs Market Value:**
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Dashboard%20Snapshots/Player%20Level%20Graphs%20-%20KPIs%20vs%20Market%20Value.jpg" width="550">
+   <img src="./Visualizations/Dashboard Snapshots/Player Level Graphs - KPIs vs Market Value.jpg" width="550">
 </p>  
 
 
@@ -111,7 +111,7 @@ Referring to the dashboards and the KPIs that are found to affect a player’s m
 **Jamie Vardy – Forward**
 
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Dashboard%20Snapshots/Player%20Level%20Dashboard%20-%20LC%20-%20Jamie%20Vardy.png" width="700">
+   <img src="./Visualizations/Dashboard Snapshots/Player Level Dashboard - LC - Jamie Vardy.png" width="700">
 </p>  
 
 Findings:
@@ -124,7 +124,7 @@ Findings:
 **James Maddison – Midfielder**
 
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Dashboard%20Snapshots/Player%20Level%20Dashboard%20-%20LC%20-%20James%20Maddison.png" width="700">
+   <img src="./Visualizations/Dashboard Snapshots/Player Level Dashboard - LC - James Maddison.png" width="700">
 </p> 
 
 Findings:
@@ -139,7 +139,7 @@ Findings:
 **Wesley Fofana – Defender**
 
 <p align="center">
-   <img src="https://github.com/mrylprz/englishpremierleague20202021/blob/main/Visualizations/Dashboard%20Snapshots/Player%20Level%20Dashboard%20-%20LC%20-%20Wesley%20Fofana.png" width="700">
+   <img src="./Visualizations/Dashboard Snapshots/Player Level Dashboard - LC - Wesley Fofana.png" width="700">
 </p>  
 
 Findings:
