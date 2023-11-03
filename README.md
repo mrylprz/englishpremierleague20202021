@@ -31,8 +31,8 @@ This repository is organized as follows:
 ## Performance Indicators (PIs)
 In the context of sports analytics, a performance indicator is a variable or a combination of variables used to measure and describe performance in a given sport. These indicators are essential for assessing and understanding successful outcomes within the sport.
 
-  ### Classification of Performance Indicators
-  The dataset provides a range of performance indicators that operate at different levels, including league, match, team, and player levels. Research by Hughes and Bartlet (2002) identified the most common performance indicators used to assess player performance, which are further divided into five categories:
+### Classification of Performance Indicators  
+The dataset provides a range of performance indicators that operate at different levels, including league, match, team, and player levels. Research by Hughes and Bartlet (2002) identified the most common performance indicators used to assess player performance, which are further divided into five categories:  
   1.	Physiological
   2.	Tactical
   3.	Technical - Defensive
